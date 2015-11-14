@@ -36,5 +36,6 @@ Transform for [babel-plugin-react-transform](https://github.com/gaearon/babel-pl
 
 ## How it looks
 
-<img width="338" alt="2015-11-14 17 09 56" src="https://cloud.githubusercontent.com/assets/4242765/11163032/30ba9fa0-8aea-11e5-8cb1-2564c97d67bf.png">
+<img width="320" alt="2015-11-14 17 12 51" src="https://cloud.githubusercontent.com/assets/4242765/11163037/a1263916-8aea-11e5-817d-0de67d66a2bd.png">
+
 
