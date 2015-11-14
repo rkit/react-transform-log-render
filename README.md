@@ -16,7 +16,7 @@
 
 3. Now edit your .babelrc to include extra.babel-plugin-react-transform
 
-   ```
+   ```js
    {
      "stage": 0,
      "env": {
