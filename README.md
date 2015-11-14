@@ -1,6 +1,6 @@
-# React Transform of the render method for log output
+# react-transform-log-render
 
-Transform for [babel-plugin-react-transform](https://github.com/gaearon/babel-plugin-react-transform)
+[React Transform](https://github.com/gaearon/babel-plugin-react-transform) of the render method for log output 
 
 ## Installation
 
