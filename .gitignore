@@ -1,10 +1,6 @@
-# hidden system files
 .DS_Store
 Thumbs.db
+*.log
 
-# npm
-node_modules
-npm-debug.log
-
-# build
 /lib
+node_modules
