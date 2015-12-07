@@ -18,7 +18,10 @@
     "render"
   ],
   "devDependencies": {
-    "babel": "^5.8.29"
+    "babel": "^5.8.29",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^2.0.0",
+    "eslint-plugin-react": "^3.11.3"
   },
   "author": "Igor Romanov <rkit.ru@gmail.com>",
   "license": "MIT",
