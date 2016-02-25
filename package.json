@@ -1,6 +1,6 @@
 {
   "name": "react-transform-log-render",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React Transform of the render method for log output",
   "main": "lib/index.js",
   "scripts": {
