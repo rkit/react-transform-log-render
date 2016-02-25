@@ -10,6 +10,8 @@
     // 2 space indent
     "indent": [2, 2, {"SwitchCase": 1}],
     // disable limit length for identifiers
-    "id-length": 0
+    "id-length": 0,
+    // allow console
+    "no-console": 0,
   }
 }
