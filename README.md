@@ -73,3 +73,9 @@
 <img width="320" alt="2015-11-14 17 12 51" src="https://cloud.githubusercontent.com/assets/4242765/11163037/a1263916-8aea-11e5-817d-0de67d66a2bd.png">
 
 > in brackets the number of updates
+
+## Development
+
+### Coding Standard
+
+- ESLint — [.eslintrc](./.eslintrc)
